@@ -1,0 +1,48 @@
+
+ *{
+ 	box-sizing: border-box;
+   text-align: center;
+}
+
+ body{  font-size: 18px; 
+       font-family: Arial
+
+ }
+
+header { 
+	background-color:#777; 
+     padding:20px;
+     margin-bottom: 20px}
+
+ nav {background-color:#777;
+            padding:20px;
+            margin-bottom: 20px}
+
+  section { 
+     	background-color:#777;
+     	float:left;
+     	width:40%;
+     	height: 100px;
+        padding:100px;
+        border: 20px;
+        }
+
+
+   aside    {
+	        background-color: #777;
+	        width:33%
+	        height:100px;
+            border: 20px;
+            padding: 100px;
+            float:right;
+            margin-left: 2px;
+            margin-bottom: 10px
+              }
+
+footer { clear: both;
+	background-color: #777;
+	   padding: 20px;
+	   margin-bottom: 20px;
+	
+}
+
